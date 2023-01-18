@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+* {
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    background-color: #111112;
+}
+
+.up-text {
+    color: white;
+    font-size: 50px;
+    margin-top: 400px;
+    margin-left: 720px;
+    font-weight: 500;
+}
+
+.down-text {
+    color: white;
+    font-weight: 250;
+    margin-top: -10px;
+    margin-left: 808px;
+}
+
+.dicsord .btn:not(:hover),
+.dicsord .btn {
+    background-color: #25252b;
+    margin-left: 840px;
+    margin-top: 13px;
+    height: 35px;
+    width: 10%;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.89);
+}
+
+.dicsord .btn:hover {
+    background-color: #3d3d42;
+    transition: 2.5s;
+}
+
+.web .btn:not(:hover),
+.web .btn {
+    background-color: #25252b;
+    margin-left: 840px;
+    margin-top: 13px;
+    height: 35px;
+    width: 10%;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.89);
+}
+
+.web .btn:hover {
+    background-color: #3d3d42;
+    transition: 2.5s;
+}
+
+.discord .btn:not(:hover),
+.discord .btn {
+    background-color: #25252b;
+    margin-left: 840px;
+    margin-top: 13px;
+    height: 35px;
+    width: 10%;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.89);
+}
+
+.discord .btn:hover {
+    background-color: #3d3d42;
+    transition: 2.5s;
+}
+
+.github .btn:not(:hover),
+.github .btn {
+    background-color: #25252b;
+    margin-left: 840px;
+    margin-top: 13px;
+    height: 35px;
+    width: 10%;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.89);
+}
+
+.github .btn:hover {
+    background-color: #3d3d42;
+    transition: 2.5s;
+}
