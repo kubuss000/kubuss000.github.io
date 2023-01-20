@@ -40,13 +40,11 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
-    text-align: center;
 }
 
 .dicsord .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
-    text-align: center;
 }
 
 .web .btn:not(:hover),
@@ -61,13 +59,11 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
-    text-align: center;
 }
 
 .web .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
-    text-align: center;
 }
 
 .discord .btn:not(:hover),
@@ -82,13 +78,11 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
-    text-align: center;
 }
 
 .discord .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
-    text-align: center;
 }
 
 .github .btn:not(:hover),
@@ -103,11 +97,9 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
-    text-align: center;
 }
 
 .github .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
-    text-align: center;
 }
