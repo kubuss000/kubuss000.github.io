@@ -13,25 +13,28 @@ body {
     background-color: #111112;
 }
 
-.up-text {
+.container {
+    text-align: center;
+}
+
+.container .up-text {
+    margin-top: 400px;
     color: white;
     font-size: 50px;
-    margin-top: 400px;
-    margin-left: 720px;
     font-weight: 500;
+    text-align: center;
 }
 
-.down-text {
+.container .down-text {
     color: white;
     font-weight: 250;
+    text-align: center;
     margin-top: -10px;
-    margin-left: 808px;
 }
 
-.dicsord .btn:not(:hover),
-.dicsord .btn {
+.container .dicsord .btn:not(:hover),
+.container .dicsord .btn {
     background-color: #25252b;
-    margin-left: 840px;
     margin-top: 13px;
     height: 35px;
     width: 10%;
@@ -42,15 +45,14 @@ body {
     color: rgba(255, 255, 255, 0.89);
 }
 
-.dicsord .btn:hover {
+.container .dicsord .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
 }
 
-.web .btn:not(:hover),
-.web .btn {
+.container .github .btn:not(:hover),
+.container .github .btn {
     background-color: #25252b;
-    margin-left: 840px;
     margin-top: 13px;
     height: 35px;
     width: 10%;
@@ -61,45 +63,7 @@ body {
     color: rgba(255, 255, 255, 0.89);
 }
 
-.web .btn:hover {
-    background-color: #3d3d42;
-    transition: 2.5s;
-}
-
-.discord .btn:not(:hover),
-.discord .btn {
-    background-color: #25252b;
-    margin-left: 840px;
-    margin-top: 13px;
-    height: 35px;
-    width: 10%;
-    border: none;
-    border-radius: 5px;
-    font-size: 15px;
-    font-weight: 300;
-    color: rgba(255, 255, 255, 0.89);
-}
-
-.discord .btn:hover {
-    background-color: #3d3d42;
-    transition: 2.5s;
-}
-
-.github .btn:not(:hover),
-.github .btn {
-    background-color: #25252b;
-    margin-left: 840px;
-    margin-top: 13px;
-    height: 35px;
-    width: 10%;
-    border: none;
-    border-radius: 5px;
-    font-size: 15px;
-    font-weight: 300;
-    color: rgba(255, 255, 255, 0.89);
-}
-
-.github .btn:hover {
+.container .github .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
 }
