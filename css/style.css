@@ -19,6 +19,8 @@ body {
     margin-top: 400px;
     margin-left: 720px;
     font-weight: 500;
+    justify-content: center;
+    align-items: center;
 }
 
 .down-text {
@@ -26,6 +28,8 @@ body {
     font-weight: 250;
     margin-top: -10px;
     margin-left: 808px;
+    justify-content: center;
+    align-items: center;
 }
 
 .dicsord .btn:not(:hover),
@@ -40,11 +44,15 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
+    justify-content: center;
+    align-items: center;
 }
 
 .dicsord .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
+    justify-content: center;
+    align-items: center;
 }
 
 .web .btn:not(:hover),
@@ -59,11 +67,15 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
+    justify-content: center;
+    align-items: center;
 }
 
 .web .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
+    justify-content: center;
+    align-items: center;
 }
 
 .discord .btn:not(:hover),
@@ -78,11 +90,15 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
+    justify-content: center;
+    align-items: center;
 }
 
 .discord .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
+    justify-content: center;
+    align-items: center;
 }
 
 .github .btn:not(:hover),
@@ -97,9 +113,13 @@ body {
     font-size: 15px;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.89);
+    justify-content: center;
+    align-items: center;
 }
 
 .github .btn:hover {
     background-color: #3d3d42;
     transition: 2.5s;
+    justify-content: center;
+    align-items: center;
 }
