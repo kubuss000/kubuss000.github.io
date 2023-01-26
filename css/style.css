@@ -47,7 +47,7 @@ body {
 
 .container .dicsord .btn:hover {
     background-color: #3d3d42;
-    transition: 2.5s;
+    transition: 1.5s;
 }
 
 .container .github .btn:not(:hover),
@@ -65,5 +65,5 @@ body {
 
 .container .github .btn:hover {
     background-color: #3d3d42;
-    transition: 2.5s;
+    transition: 1.5s;
 }
